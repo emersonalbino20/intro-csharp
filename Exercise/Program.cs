@@ -19,7 +19,7 @@
                 case 111 :
                     Console.WriteLine("Calling to the general emergency...");
                     break;
-                case 119:
+                case 119 :
                     Console.WriteLine("Calling to the ambulance...");
                     break;
                 default:
