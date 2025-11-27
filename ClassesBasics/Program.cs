@@ -4,10 +4,10 @@
     {
         public static void Main(string[] args)
         {
-            Human ealbino = new Human();
-            ealbino.name = "Emerson J.T Albino";
-            ealbino.nickname = "Ealbino";
-            ealbino.hello();
+            Human ealbino = new Human("Emerson J.T Albino", "Ealbino", "Brown", 18);
+            Human anders = new Human("Anders Hejlsberg", "aHejlsberg", "Blue", 65);
+            ealbino.GetInfo();
+            anders.GetInfo();
         }
     }
 } 
