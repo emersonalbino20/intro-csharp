@@ -12,3 +12,4 @@
 /home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.pdb
 /home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.genruntimeconfig.cache
 /home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ref/ClassesBasics.dll
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.sourcelink.json

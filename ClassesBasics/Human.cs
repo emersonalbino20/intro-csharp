@@ -9,8 +9,7 @@ public class Human
     
     public void GetInfo()
     {
-        if (_name == null || _nickname == null
-                          || _eyeColor == null || _age == null)
+        if (_name == null || _nickname == null || _eyeColor == null)
         {
             Console.Write("Invalid information!");
             return;
@@ -20,12 +19,17 @@ public class Human
         Console.WriteLine($"Eye Color: {_eyeColor}\nAge: {_age}");
     }
 
-    //Constructor
+    //Parameter Constructor
     public Human(string name, string nickname,  string eyeColor, int age)
     {
         this._name = name;
         this._nickname = nickname;
         this._eyeColor = eyeColor;
         this._age = age;
+    }
+
+    public Human()
+    {
+        Console.WriteLine("Default constructor");
     }
 }
