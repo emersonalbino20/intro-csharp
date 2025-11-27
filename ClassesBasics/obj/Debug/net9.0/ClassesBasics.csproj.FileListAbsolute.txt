@@ -1,0 +1,14 @@
+/home/ealbino/Documents/c-sharp/ClassesBasics/bin/Debug/net9.0/ClassesBasics
+/home/ealbino/Documents/c-sharp/ClassesBasics/bin/Debug/net9.0/ClassesBasics.deps.json
+/home/ealbino/Documents/c-sharp/ClassesBasics/bin/Debug/net9.0/ClassesBasics.runtimeconfig.json
+/home/ealbino/Documents/c-sharp/ClassesBasics/bin/Debug/net9.0/ClassesBasics.dll
+/home/ealbino/Documents/c-sharp/ClassesBasics/bin/Debug/net9.0/ClassesBasics.pdb
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.GeneratedMSBuildEditorConfig.editorconfig
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.AssemblyInfoInputs.cache
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.AssemblyInfo.cs
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.csproj.CoreCompileInputs.cache
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.dll
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/refint/ClassesBasics.dll
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.pdb
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ClassesBasics.genruntimeconfig.cache
+/home/ealbino/Documents/c-sharp/ClassesBasics/obj/Debug/net9.0/ref/ClassesBasics.dll
