@@ -1,0 +1,15 @@
+/home/ealbino/Documents/c-sharp/ArrayList/bin/Debug/net9.0/ArrayList
+/home/ealbino/Documents/c-sharp/ArrayList/bin/Debug/net9.0/ArrayList.deps.json
+/home/ealbino/Documents/c-sharp/ArrayList/bin/Debug/net9.0/ArrayList.runtimeconfig.json
+/home/ealbino/Documents/c-sharp/ArrayList/bin/Debug/net9.0/ArrayList.dll
+/home/ealbino/Documents/c-sharp/ArrayList/bin/Debug/net9.0/ArrayList.pdb
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/ArrayList.AssemblyInfoInputs.cache
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/ArrayList.AssemblyInfo.cs
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/ArrayList.csproj.CoreCompileInputs.cache
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/ArrayList.sourcelink.json
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/ArrayList.dll
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/refint/ArrayList.dll
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/ArrayList.pdb
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/ArrayList.genruntimeconfig.cache
+/home/ealbino/Documents/c-sharp/ArrayList/obj/Debug/net9.0/ref/ArrayList.dll
