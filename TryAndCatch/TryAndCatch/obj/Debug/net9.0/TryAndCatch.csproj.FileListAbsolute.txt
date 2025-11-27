@@ -1,0 +1,14 @@
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/bin/Debug/net9.0/TryAndCatch
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/bin/Debug/net9.0/TryAndCatch.deps.json
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/bin/Debug/net9.0/TryAndCatch.runtimeconfig.json
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/bin/Debug/net9.0/TryAndCatch.dll
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/bin/Debug/net9.0/TryAndCatch.pdb
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/obj/Debug/net9.0/TryAndCatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/obj/Debug/net9.0/TryAndCatch.AssemblyInfoInputs.cache
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/obj/Debug/net9.0/TryAndCatch.AssemblyInfo.cs
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/obj/Debug/net9.0/TryAndCatch.csproj.CoreCompileInputs.cache
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/obj/Debug/net9.0/TryAndCatch.dll
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/obj/Debug/net9.0/refint/TryAndCatch.dll
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/obj/Debug/net9.0/TryAndCatch.pdb
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/obj/Debug/net9.0/TryAndCatch.genruntimeconfig.cache
+/home/ealbino/Documents/c-sharp/TryAndCatch/TryAndCatch/obj/Debug/net9.0/ref/TryAndCatch.dll

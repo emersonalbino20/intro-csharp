@@ -1,0 +1,14 @@
+/home/ealbino/Documents/c-sharp/Exercise/bin/Debug/net9.0/Exercise
+/home/ealbino/Documents/c-sharp/Exercise/bin/Debug/net9.0/Exercise.deps.json
+/home/ealbino/Documents/c-sharp/Exercise/bin/Debug/net9.0/Exercise.runtimeconfig.json
+/home/ealbino/Documents/c-sharp/Exercise/bin/Debug/net9.0/Exercise.dll
+/home/ealbino/Documents/c-sharp/Exercise/bin/Debug/net9.0/Exercise.pdb
+/home/ealbino/Documents/c-sharp/Exercise/obj/Debug/net9.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/ealbino/Documents/c-sharp/Exercise/obj/Debug/net9.0/Exercise.AssemblyInfoInputs.cache
+/home/ealbino/Documents/c-sharp/Exercise/obj/Debug/net9.0/Exercise.AssemblyInfo.cs
+/home/ealbino/Documents/c-sharp/Exercise/obj/Debug/net9.0/Exercise.csproj.CoreCompileInputs.cache
+/home/ealbino/Documents/c-sharp/Exercise/obj/Debug/net9.0/Exercise.dll
+/home/ealbino/Documents/c-sharp/Exercise/obj/Debug/net9.0/refint/Exercise.dll
+/home/ealbino/Documents/c-sharp/Exercise/obj/Debug/net9.0/Exercise.pdb
+/home/ealbino/Documents/c-sharp/Exercise/obj/Debug/net9.0/Exercise.genruntimeconfig.cache
+/home/ealbino/Documents/c-sharp/Exercise/obj/Debug/net9.0/ref/Exercise.dll

@@ -1,0 +1,14 @@
+/home/ealbino/Documents/myfirstprog/myfirstprog/bin/Debug/net10.0/myfirstprog
+/home/ealbino/Documents/myfirstprog/myfirstprog/bin/Debug/net10.0/myfirstprog.deps.json
+/home/ealbino/Documents/myfirstprog/myfirstprog/bin/Debug/net10.0/myfirstprog.runtimeconfig.json
+/home/ealbino/Documents/myfirstprog/myfirstprog/bin/Debug/net10.0/myfirstprog.dll
+/home/ealbino/Documents/myfirstprog/myfirstprog/bin/Debug/net10.0/myfirstprog.pdb
+/home/ealbino/Documents/myfirstprog/myfirstprog/obj/Debug/net10.0/myfirstprog.GeneratedMSBuildEditorConfig.editorconfig
+/home/ealbino/Documents/myfirstprog/myfirstprog/obj/Debug/net10.0/myfirstprog.AssemblyInfoInputs.cache
+/home/ealbino/Documents/myfirstprog/myfirstprog/obj/Debug/net10.0/myfirstprog.AssemblyInfo.cs
+/home/ealbino/Documents/myfirstprog/myfirstprog/obj/Debug/net10.0/myfirstprog.csproj.CoreCompileInputs.cache
+/home/ealbino/Documents/myfirstprog/myfirstprog/obj/Debug/net10.0/myfirstprog.dll
+/home/ealbino/Documents/myfirstprog/myfirstprog/obj/Debug/net10.0/refint/myfirstprog.dll
+/home/ealbino/Documents/myfirstprog/myfirstprog/obj/Debug/net10.0/myfirstprog.pdb
+/home/ealbino/Documents/myfirstprog/myfirstprog/obj/Debug/net10.0/myfirstprog.genruntimeconfig.cache
+/home/ealbino/Documents/myfirstprog/myfirstprog/obj/Debug/net10.0/ref/myfirstprog.dll
