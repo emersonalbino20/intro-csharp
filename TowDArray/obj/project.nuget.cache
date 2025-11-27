@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6T/YNqf/KYY=",
+  "success": true,
+  "projectFilePath": "/home/ealbino/Documents/c-sharp/TowDArray/TowDArray.csproj",
+  "expectedPackageFiles": [
+    "/home/ealbino/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

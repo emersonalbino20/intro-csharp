@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowDArray", "TowDArray.csproj", "{57AE849D-1C7D-4747-BE17-E1CE64207E30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AE849D-1C7D-4747-BE17-E1CE64207E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AE849D-1C7D-4747-BE17-E1CE64207E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AE849D-1C7D-4747-BE17-E1CE64207E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AE849D-1C7D-4747-BE17-E1CE64207E30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

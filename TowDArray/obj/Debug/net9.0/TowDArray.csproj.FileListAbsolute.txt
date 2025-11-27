@@ -1,0 +1,15 @@
+/home/ealbino/Documents/c-sharp/TowDArray/bin/Debug/net9.0/TowDArray
+/home/ealbino/Documents/c-sharp/TowDArray/bin/Debug/net9.0/TowDArray.deps.json
+/home/ealbino/Documents/c-sharp/TowDArray/bin/Debug/net9.0/TowDArray.runtimeconfig.json
+/home/ealbino/Documents/c-sharp/TowDArray/bin/Debug/net9.0/TowDArray.dll
+/home/ealbino/Documents/c-sharp/TowDArray/bin/Debug/net9.0/TowDArray.pdb
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/TowDArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/TowDArray.AssemblyInfoInputs.cache
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/TowDArray.AssemblyInfo.cs
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/TowDArray.csproj.CoreCompileInputs.cache
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/TowDArray.sourcelink.json
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/TowDArray.dll
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/refint/TowDArray.dll
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/TowDArray.pdb
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/TowDArray.genruntimeconfig.cache
+/home/ealbino/Documents/c-sharp/TowDArray/obj/Debug/net9.0/ref/TowDArray.dll
