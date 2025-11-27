@@ -1,0 +1,15 @@
+/home/ealbino/Documents/c-sharp/Members/bin/Debug/net9.0/Members
+/home/ealbino/Documents/c-sharp/Members/bin/Debug/net9.0/Members.deps.json
+/home/ealbino/Documents/c-sharp/Members/bin/Debug/net9.0/Members.runtimeconfig.json
+/home/ealbino/Documents/c-sharp/Members/bin/Debug/net9.0/Members.dll
+/home/ealbino/Documents/c-sharp/Members/bin/Debug/net9.0/Members.pdb
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/Members.GeneratedMSBuildEditorConfig.editorconfig
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/Members.AssemblyInfoInputs.cache
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/Members.AssemblyInfo.cs
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/Members.csproj.CoreCompileInputs.cache
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/Members.sourcelink.json
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/Members.dll
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/refint/Members.dll
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/Members.pdb
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/Members.genruntimeconfig.cache
+/home/ealbino/Documents/c-sharp/Members/obj/Debug/net9.0/ref/Members.dll

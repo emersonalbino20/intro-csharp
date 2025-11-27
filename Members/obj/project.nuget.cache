@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7f9pVKOU55U=",
+  "success": true,
+  "projectFilePath": "/home/ealbino/Documents/c-sharp/Members/Members.csproj",
+  "expectedPackageFiles": [
+    "/home/ealbino/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
