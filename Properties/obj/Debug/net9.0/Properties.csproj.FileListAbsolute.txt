@@ -1,0 +1,15 @@
+/home/ealbino/Documents/c-sharp/Properties/bin/Debug/net9.0/Properties
+/home/ealbino/Documents/c-sharp/Properties/bin/Debug/net9.0/Properties.deps.json
+/home/ealbino/Documents/c-sharp/Properties/bin/Debug/net9.0/Properties.runtimeconfig.json
+/home/ealbino/Documents/c-sharp/Properties/bin/Debug/net9.0/Properties.dll
+/home/ealbino/Documents/c-sharp/Properties/bin/Debug/net9.0/Properties.pdb
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/Properties.AssemblyInfoInputs.cache
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/Properties.AssemblyInfo.cs
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/Properties.csproj.CoreCompileInputs.cache
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/Properties.sourcelink.json
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/Properties.dll
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/refint/Properties.dll
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/Properties.pdb
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/Properties.genruntimeconfig.cache
+/home/ealbino/Documents/c-sharp/Properties/obj/Debug/net9.0/ref/Properties.dll
