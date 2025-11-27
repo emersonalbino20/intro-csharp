@@ -2,11 +2,10 @@
 {
     class Program
     {
+
         public static int Atoi(string s)
         {
-            if (int.TryParse(s, out int value))
-                return (int.Parse(s));
-            return (0);
+            return (int.TryParse(s, out int value) ? int.Parse(s) : 0);
         }
 
         private static void Task(int value)
@@ -35,6 +34,7 @@
             Console.WriteLine("Tell the emergency number:");
             Task(Atoi(Console.ReadLine()));
         }
+
     }
     
 }
